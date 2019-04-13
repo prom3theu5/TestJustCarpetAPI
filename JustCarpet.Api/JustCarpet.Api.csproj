@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Steve Heasman, David Sekula</Authors>
+    <Product>JustCarpet.Api.Client</Product>
+    <PackageId>JustCarpet.Api.Client</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
